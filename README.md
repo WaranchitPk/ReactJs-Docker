@@ -5,3 +5,5 @@
     - docker-compose stop
 5. If you want to start Again
     - docker-compose start
+    
+6. Run in Port: 3000    
